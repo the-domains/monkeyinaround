@@ -1,6 +1,6 @@
 name: monkeyinaround
 favicon: null
-layout_spectrum: 0.29681
+layout_spectrum: 0.09573
 typography_spectrum: 0.25397
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#9f8c88'
     - '#d2aaa0'
     - '#4a7198'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 0.125
-  rhythmicContrast: 1
+  brandStrength: 0.4375
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
