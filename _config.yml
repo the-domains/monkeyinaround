@@ -1,0 +1,28 @@
+name: monkeyinaround
+favicon: null
+layout_spectrum: 0.03715809900313616
+typography_spectrum: 0.18653545365668833
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.35314724734053016
+  lightness: 0.872435140889138
+  saturation: 0.852231526048854
+  rhythmicContrast: 0.8342297524213791
+purpose: []
