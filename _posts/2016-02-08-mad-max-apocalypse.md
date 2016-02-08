@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: A poem inspired by the latest film
-datePublished: '2016-02-08T15:29:26.879Z'
-dateModified: '2016-02-08T15:29:23.474Z'
+datePublished: '2016-02-08T15:32:51.625Z'
+dateModified: '2016-02-08T15:30:48.022Z'
 title: Mad Max Apocalypse
 author: []
 sourcePath: _posts/2016-02-08-mad-max-apocalypse.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91676a74-1c84-4b71-bc64-fd177457e9cf.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f484c7c7d1c68ab5d9ea9f9669ce15b0ded98b07.jpg)
 
 adventure thirsting
 
@@ -71,7 +71,7 @@ skeletons fighting
 with sticks over sand
 
 the eternal congress is a mental demand
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b89560f2-1988-4ee1-bf92-f0f32819518b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/493af0cd9500441565f6d705e9aea98328f9cf8b.jpg)
 
 shamans self fillet and brahmans obey
 
