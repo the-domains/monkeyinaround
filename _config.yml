@@ -1,7 +1,7 @@
 name: monkeyinaround
 favicon: null
-layout_spectrum: 0.03715809900313616
-typography_spectrum: 0.18653545365668833
+layout_spectrum: 1
+typography_spectrum: 0.03723
 cta:
   domain: null
   bucket: null
