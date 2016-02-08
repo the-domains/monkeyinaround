@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: A poem inspired by the latest film
-datePublished: '2016-02-08T15:06:51.693Z'
-dateModified: '2016-02-08T15:06:29.290Z'
+datePublished: '2016-02-08T15:25:33.967Z'
+dateModified: '2016-02-08T15:25:15.776Z'
 title: Mad Max Apocalypse
 author: []
+sourcePath: _posts/2016-02-08-mad-max-apocalypse.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-mad-max-apocalypse.md
-published: true
-url: mad-max-apocalypse/index.html
-_type: Article
+_type: Blurb
 
 ---
 adventure thirsting
