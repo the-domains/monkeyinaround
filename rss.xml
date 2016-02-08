@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[monkeyinaround]]></title>
         <description><![CDATA[monkeyinaround]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/monkeyinaround/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 15:04:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 15:07:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/monkeyinaround/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mad Max Apocalypse]]></title>
+            <description><![CDATA[<article><h1>Mad Max Apocalypse</h1><p>adventure thirsting</p></article>]]></description>
+            <link>https://thegrid.ai/monkeyinaround/mad-max-apocalypse/index.html</link>
+            <guid isPermaLink="false">e25eeae8-ac0d-4fe7-9657-33c849d485c0</guid>
+            <pubDate>Mon, 08 Feb 2016 15:06:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff5df008-28b8-4f62-9665-5cccafbd0c4e.jpg">]]></description>
-            <link>undefineddc33b953-108c-4ca8-9a59-f06867e95fe7/index.html</link>
+            <link>https://thegrid.ai/monkeyinaround/dc33b953-108c-4ca8-9a59-f06867e95fe7/index.html</link>
             <guid isPermaLink="false">dc33b953-108c-4ca8-9a59-f06867e95fe7</guid>
             <pubDate>Mon, 08 Feb 2016 15:04:06 GMT</pubDate>
         </item>
